@@ -1,0 +1,11 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+.env
+.venv
+venv/
+ENV/
+.DS_Store
+*.csv
+!spotifymusic.csv 
